@@ -66,7 +66,7 @@ Historically, much of my source code has been stored on my own Forgejo instance,
 - [FLTK Diceware password generator](https://github.com/charles-m-knox/go-fltk-diceware) - A lightweight diceware-based password manager built in FLTK (uses ~11MB of RAM!)
 - [FLTK Clipboard manager](https://github.com/charles-m-knox/go-fltk-clipboard) - A simple clipboard manager, extremely light on RAM.
 - [Wireguard Net UI (`wgnetui`)](https://github.com/charles-m-knox/wgnetui) - A Fyne-based UI for managing wireguard connections.
-- [FLTK Sane](https://github.com/charles-m-knox/go-fltk-sane) - A simple UI for controlling a document scanner (via resources provided by the [SANE project](http://www.sane-project.org/))
+- [FLTK Document Scanner](https://github.com/charles-m-knox/go-fltk-sane) - A simple UI for controlling a document scanner (via resources provided by the [SANE project](http://www.sane-project.org/))
 - *more coming soon*
 
 ### Utilities
@@ -91,7 +91,7 @@ Historically, much of my source code has been stored on my own Forgejo instance,
 ### Forks
 
 - [rallly](https://github.com/charles-m-knox/rallly/tree/bcc-attendees) - a fork of [Rallly](https://github.com/lukevella/rallly) that implements the ability to hide all attendees from the finalized email invite
-- [cal.com](https://github.com/charles-m-knox/cal.com/tree/custom-mirotalk) - a fork of [cal.com](https://github.com/calcom/cal.com) that updates the [Mirotalk](https://github.com/miroslavpejic85/mirotalk) plugin to generate random meetings for each booked event
+- [cal.com](https://github.com/charles-m-knox/cal.com/tree/custom-mirotalk) - a fork of [cal.com](https://github.com/calcom/cal.com) that updates the [Mirotalk](https://github.com/miroslavpejic85/mirotalk) plugin to generate random meetings for each booked event (unavailable right now, possibly coming soon)
 - *more coming soon*
 
 ### Projects I contribute to
