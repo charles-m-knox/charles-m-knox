@@ -10,16 +10,14 @@ More about me:
 - CTO and board member of [Technology Education Collaborative](https://techedcollab.org), a 501(c)3 nonprofit in Phoenix, Arizona dedicated to supporting the secure, thoughtful use of technology. [Come listen to our podcast!](https://podcast.techedcollab.org)
 - President/CEO and board member of [Strong Towns Phoenix](https://strongtownsphx.org), a 501(c)3 nonprofit in Phoenix dedicated to making Phoenix more fiscally sustainable and safer for everyone. [Come listen to our podcast!](https://podcast.strongtownsphx.org)
 
-## Open to employment
+## Business inquiries
 
-**I am currently looking for work!** Please contact me at [jobs@charlesmknox.com](mailto:jobs@charlesmknox.com).
-
-I prefer **remote** or **hybrid** work opportunities in the Phoenix, AZ area.
+Please visit [my website](https://charlesmknox.com/resume) for contact information.
 
 ## Table of contents
 
 - [Charles M. Knox](#charles-m-knox)
-  - [Open to employment](#open-to-employment)
+  - [Business inquiries](#business-inquiries)
   - [Table of contents](#table-of-contents)
   - [Software projects](#software-projects)
     - [Websites](#websites)
@@ -97,4 +95,5 @@ Historically, much of my source code has been stored on my own Forgejo instance,
 ### Projects I contribute to
 
 - [Runejs server](https://github.com/runejs/server) - An educational, from-scratch implementation of an emulator of a 2006-era RuneScape server written in TypeScript ([client too](https://github.com/runejs/refactored-client-435))
+- [evemu](https://github.com/EvEmu-Project/evemu_Crucible) - tooling and emulator for Eve
 - *more coming soon*
