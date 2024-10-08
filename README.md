@@ -8,7 +8,6 @@ More about me:
 
 - Creator of [Stylistic.app](https://stylistic.app), an AI tool for creative face recognition and styling that respects your privacy. Check it out at [stylistic.app](<https://stylistic.app>).
 - CTO and board member of [Technology Education Collaborative](https://techedcollab.org), a 501(c)3 nonprofit in Phoenix, Arizona dedicated to supporting the secure, thoughtful use of technology. [Come listen to our podcast!](https://podcast.techedcollab.org)
-- President/CEO and board member of [Strong Towns Phoenix](https://strongtownsphx.org), a 501(c)3 nonprofit in Phoenix dedicated to making Phoenix more fiscally sustainable and safer for everyone. [Come listen to our podcast!](https://podcast.strongtownsphx.org)
 
 ## Business inquiries
 
