@@ -4,10 +4,7 @@ Welcome. I am a senior software engineer with >12 years of professional experien
 
 I am a Linux enthusiast and write software in Go, TypeScript, and Python, and dabble in other languages from time to time. I've done DevOps roles and software engineering roles for the majority of my career.
 
-More about me:
-
-- Creator of [Stylistic.app](https://stylistic.app), an AI tool for creative face recognition and styling that respects your privacy. Check it out at [stylistic.app](<https://stylistic.app>).
-- CTO and board member of [Technology Education Collaborative](https://techedcollab.org), a 501(c)3 nonprofit in Phoenix, Arizona dedicated to supporting the secure, thoughtful use of technology. [Come listen to our podcast!](https://podcast.techedcollab.org)
+I am also the creator of [Stylistic.app](https://stylistic.app), an AI SaaS product for creative face recognition and styling that also respects your privacy. Check it out at [stylistic.app](<https://stylistic.app>).
 
 ## Business inquiries
 
@@ -88,11 +85,8 @@ Historically, much of my source code has been stored on my own Forgejo instance,
 ### Forks
 
 - [rallly](https://github.com/charles-m-knox/rallly/tree/bcc-attendees) - a fork of [Rallly](https://github.com/lukevella/rallly) that implements the ability to hide all attendees from the finalized email invite
-- [cal.com](https://github.com/charles-m-knox/cal.com/tree/custom-mirotalk) - a fork of [cal.com](https://github.com/calcom/cal.com) that updates the [Mirotalk](https://github.com/miroslavpejic85/mirotalk) plugin to generate random meetings for each booked event (unavailable right now, possibly coming soon)
-- *more coming soon*
 
 ### Projects I contribute to
 
 - [Runejs server](https://github.com/runejs/server) - An educational, from-scratch implementation of an emulator of a 2006-era RuneScape server written in TypeScript ([client too](https://github.com/runejs/refactored-client-435))
 - [evemu](https://github.com/EvEmu-Project/evemu_Crucible) - tooling and emulator for Eve
-- *more coming soon*
