@@ -4,16 +4,9 @@ Welcome. I am a senior software engineer with >12 years of professional experien
 
 I am a Linux enthusiast and write software in Go, TypeScript, and Python, and dabble in other languages from time to time. I've done DevOps roles and software engineering roles for the majority of my career.
 
-I am also the creator of [Stylistic.app](https://stylistic.app), an AI SaaS product for creative face recognition and styling that also respects your privacy. Check it out at [stylistic.app](<https://stylistic.app>).
-
-## Business inquiries
-
-Please visit [my website](https://charlesmknox.com/resume) for contact information.
-
 ## Table of contents
 
 - [Charles M. Knox](#charles-m-knox)
-  - [Business inquiries](#business-inquiries)
   - [Table of contents](#table-of-contents)
   - [Software projects](#software-projects)
     - [Websites](#websites)
@@ -30,11 +23,8 @@ Please visit [my website](https://charlesmknox.com/resume) for contact informati
 
 Here's a growing list of software projects I've either written, forked, or have made contributions to. This list isn't complete and currently covers only very recent items.
 
-Historically, much of my source code has been stored on my own Forgejo instance, off of GitHub. I am currently in the process of migrating things on to GitHub.
-
 ### Websites
 
-- [Stylistic.app](https://stylistic.app) - An AI tool for creative face recognition and styling that respects your privacy.
 - [Diceware password generator](https://diceware.charlesmknox.com) - Generates secure passwords that are easy to type, work with most sites, and don't require much effort. Minimalist and light on resources.
 - [Hugo minimalist theme](https://aperspection.com) - A Hugo theme for my personal music project that supports dark/light mode and works with browsers without JavaScript. [Source code here](https://github.com/charles-m-knox/hugo-minimalist-theme).
 - *more coming soon*
