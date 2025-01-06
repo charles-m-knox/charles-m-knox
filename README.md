@@ -23,6 +23,8 @@ I am a Linux enthusiast and write software in Go, TypeScript, and Python, and da
 
 Here's a growing list of software projects I've either written, forked, or have made contributions to. This list isn't complete and currently covers only very recent items.
 
+Most (if not all) applications below are written in my spare time. There may be instability or unpolished code in some of them. I do not get paid to write these applications and they are not my priority.
+
 ### Websites
 
 - [Diceware password generator](https://diceware.charlesmknox.com) - Generates secure passwords that are easy to type, work with most sites, and don't require much effort. Minimalist and light on resources.
@@ -35,7 +37,7 @@ Here's a growing list of software projects I've either written, forked, or have 
 
 ### Terminal tools (TUI)
 
-- [frequencmd](https://github.com/charles-m-knox/frequencmd) -  TUI app that can run any shell commands you want. Like bookmarks in your web browser, except shell commands.
+- [frequencmd](https://github.com/charles-m-knox/frequencmd) - TUI app that can run any shell commands you want. Like bookmarks in your web browser, except shell commands.
 - [Finance Planner TUI](https://github.com/charles-m-knox/finance-planner-tui) - Define recurring bills & income, and get a fairly accurate prediction of where your finances will be in the future.
 
 ### Financial wellbeing tools
@@ -51,6 +53,8 @@ Here's a growing list of software projects I've either written, forked, or have 
 - [FLTK Clipboard manager](https://github.com/charles-m-knox/go-fltk-clipboard) - A simple clipboard manager, extremely light on RAM.
 - [Wireguard Net UI (`wgnetui`)](https://github.com/charles-m-knox/wgnetui) - A Fyne-based UI for managing wireguard connections.
 - [FLTK Document Scanner](https://github.com/charles-m-knox/go-fltk-sane) - A simple UI for controlling a document scanner (via resources provided by the [SANE project](http://www.sane-project.org/))
+- [Habit Tracker](https://github.com/charles-m-knox/habit-tracker-adwaita) - A Go-based `libadwaita` and `gtk4` app that tracks habits with a two-week success/fail progress indicator for each habit to keep you motivated.
+- [Powercycle JS](https://github.com/charles-m-knox/powercycle-js) - A Node-based `libadwaita` application for controlling your indoor bike smart trainer via an ANT+ USB stick.
 - *more coming soon*
 
 ### Utilities
