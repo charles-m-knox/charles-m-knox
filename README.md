@@ -80,6 +80,7 @@ Most (if not all) applications below are written in my spare time. There may be 
 
 ### Ansible roles
 
+- [mate_desktop](https://github.com/charles-m-knox/ansible-role-mate-desktop) - an Ansible role that configures Mate Desktop the way I want
 - [gather_facts](https://github.com/charles-m-knox/ansible-role-gather-facts) - a basic Ansible role that gathers facts in parallel
 - [housekeeping](https://github.com/charles-m-knox/ansible-role-housekeeping) - a simple Ansible role that can be run often to keep your system clean
 
