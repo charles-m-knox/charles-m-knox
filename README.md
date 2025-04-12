@@ -16,6 +16,7 @@ I am a Linux enthusiast and write software in Go, TypeScript, and Python, and da
     - [Graphical user interface (GUI) applications](#graphical-user-interface-gui-applications)
     - [Utilities](#utilities)
     - [Libraries](#libraries)
+    - [Ansible roles](#ansible-roles)
     - [Forks](#forks)
     - [Projects I contribute to](#projects-i-contribute-to)
 
