@@ -74,7 +74,13 @@ Most (if not all) applications below are written in my spare time. There may be 
 - [go-dicewarelib](https://github.com/charles-m-knox/go-dicewarelib) - Go library that facilitates diceware password generation.
 - [go-castopod](https://github.com/charles-m-knox/go-castopod) - Utility library for interacting with a Castopod database.
 - [go-wgnetlib](https://github.com/charles-m-knox/go-wgnetlib) - Wireguard net library - quickly create wireguard networks with thousands of peers! Designed for use with [wgnetui](https://github.com/charles-m-knox/wgnetui).
+- [libmetropol](https://github.com/charles-m-knox/libmetropol) - A Go library and binary file mappings for the 1997 abandonware game *AWorld Table Game: Metropolis*
 - *more coming soon*
+
+### Ansible roles
+
+- [gather_facts](https://github.com/charles-m-knox/ansible-role-gather-facts) - a basic Ansible role that gathers facts in parallel
+- [housekeeping](https://github.com/charles-m-knox/ansible-role-housekeeping) - a simple Ansible role that can be run often to keep your system clean
 
 ### Forks
 
