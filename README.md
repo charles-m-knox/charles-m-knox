@@ -85,6 +85,10 @@ Most (if not all) applications below are written in my spare time. There may be 
 - [gather_facts](https://github.com/charles-m-knox/ansible-role-gather-facts) - a basic Ansible role that gathers facts in parallel
 - [housekeeping](https://github.com/charles-m-knox/ansible-role-housekeeping) - a simple Ansible role that can be run often to keep your system clean
 - [controls](https://github.com/charles-m-knox/ansible-role-controls) - an Ansible role for remotely controlling all of my systems
+- [wireguard](https://github.com/charles-m-knox/ansible-role-wireguard) - an Ansible role for installing and configuring WireGuard
+- [networking](https://github.com/charles-m-knox/ansible-role-networking) - an Ansible role for network configuration
+- [xdotool](https://github.com/charles-m-knox/ansible-role-xdotool) - an Ansible role for installing xdotool
+- [scrcpy](https://github.com/charles-m-knox/ansible-role-scrcpy) - an Ansible role for installing scrcpy
 
 ### Forks
 
