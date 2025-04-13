@@ -89,6 +89,9 @@ Most (if not all) applications below are written in my spare time. There may be 
 - [networking](https://github.com/charles-m-knox/ansible-role-networking) - an Ansible role for network configuration
 - [xdotool](https://github.com/charles-m-knox/ansible-role-xdotool) - an Ansible role for installing xdotool
 - [scrcpy](https://github.com/charles-m-knox/ansible-role-scrcpy) - an Ansible role for installing scrcpy
+- [essentials](https://github.com/charles-m-knox/ansible-role-essentials) - an Ansible role for configuring a few system essentials
+- [disable_snap](https://github.com/charles-m-knox/ansible-role-disable-snap) - an Ansible role for uninstalling and disabling snap
+- [tmux](https://github.com/charles-m-knox/ansible-role-tmux) - an Ansible role for installing and configuring tmux the way I want
 
 ### Forks
 
