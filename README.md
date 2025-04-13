@@ -84,6 +84,7 @@ Most (if not all) applications below are written in my spare time. There may be 
 - [bash_profile](https://github.com/charles-m-knox/ansible-role-bash-profile) - an Ansible role for configuring my Bash profile the way I want
 - [gather_facts](https://github.com/charles-m-knox/ansible-role-gather-facts) - a basic Ansible role that gathers facts in parallel
 - [housekeeping](https://github.com/charles-m-knox/ansible-role-housekeeping) - a simple Ansible role that can be run often to keep your system clean
+- [controls](https://github.com/charles-m-knox/ansible-role-controls) - an Ansible role for remotely controlling all of my systems
 
 ### Forks
 
