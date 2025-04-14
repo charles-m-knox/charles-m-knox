@@ -95,6 +95,7 @@ Most (if not all) applications below are written in my spare time. There may be 
 - [git](https://github.com/charles-m-knox/ansible-role-git) - an Ansible role for installing and configuring git the way I want
 - [awesome](https://github.com/charles-m-knox/ansible-role-awesome) - an Ansible role for installing and configuring awesome window manager the way I want
 - [x11vnc](https://github.com/charles-m-knox/ansible-role-x11vnc) - an Ansible role for installing and configuring x11vnc
+- [xbindkeys](https://github.com/charles-m-knox/ansible-role-xbindkeys) - an Ansible role for installing and configuring xbindkeys
 
 ### Forks
 
