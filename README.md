@@ -92,6 +92,8 @@ Most (if not all) applications below are written in my spare time. There may be 
 - [essentials](https://github.com/charles-m-knox/ansible-role-essentials) - an Ansible role for configuring a few system essentials
 - [disable_snap](https://github.com/charles-m-knox/ansible-role-disable-snap) - an Ansible role for uninstalling and disabling snap
 - [tmux](https://github.com/charles-m-knox/ansible-role-tmux) - an Ansible role for installing and configuring tmux the way I want
+- [git](https://github.com/charles-m-knox/ansible-role-git) - an Ansible role for installing and configuring git the way I want
+- [awesome](https://github.com/charles-m-knox/ansible-role-awesome) - an Ansible role for installing and configuring awesome window manager the way I want
 
 ### Forks
 
