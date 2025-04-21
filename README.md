@@ -96,6 +96,7 @@ Most (if not all) applications below are written in my spare time. There may be 
 - [awesome](https://github.com/charles-m-knox/ansible-role-awesome) - an Ansible role for installing and configuring awesome window manager the way I want
 - [x11vnc](https://github.com/charles-m-knox/ansible-role-x11vnc) - an Ansible role for installing and configuring x11vnc
 - [xbindkeys](https://github.com/charles-m-knox/ansible-role-xbindkeys) - an Ansible role for installing and configuring xbindkeys
+- [syncthing](https://github.com/charles-m-knox/ansible-role-syncthing) - an Ansible role for installing, building, and configuring syncthing
 
 ### Forks
 
