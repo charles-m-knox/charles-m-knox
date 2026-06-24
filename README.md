@@ -2,7 +2,7 @@
 
 Welcome. I am a senior software engineer with >12 years of professional experience. I hold a Bachelor's of Science degree in Physics from [Arizona State University](https://asu.edu), and I worked at [Intel](https://intel.com) in a variety of roles for about 8 years, and then worked with a variety of VC-backed tech startups as well as other firms.
 
-I am a Linux enthusiast and write software in Go, TypeScript, and Python, and dabble in other languages from time to time. I've done DevOps roles and software engineering roles for the majority of my career.
+I am a Linux enthusiast and write software in Rust, Go, TypeScript, and Python, and dabble in other languages from time to time. I've done DevOps roles and software engineering roles for the majority of my career, and I do a lot of other things.
 
 ## Table of contents
 
@@ -104,5 +104,6 @@ Most (if not all) applications below are written in my spare time. There may be 
 
 ### Projects I contribute to
 
+- [Veloren](https://veloren.net) - A voxel-based game written in Rust
 - [Runejs server](https://github.com/runejs/server) - An educational, from-scratch implementation of an emulator of a 2006-era RuneScape server written in TypeScript ([client too](https://github.com/runejs/refactored-client-435))
 - [evemu](https://github.com/EvEmu-Project/evemu_Crucible) - tooling and emulator for Eve
