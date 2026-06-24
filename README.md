@@ -29,7 +29,7 @@ Most (if not all) applications below are written in my spare time. There may be 
 ### Websites
 
 - [Diceware password generator](https://diceware.charlesmknox.com) - Generates secure passwords that are easy to type, work with most sites, and don't require much effort. Minimalist and light on resources.
-- [Hugo minimalist theme](https://aperspection.com) - A Hugo theme for my personal music project that supports dark/light mode and works with browsers without JavaScript. [Source code here](https://github.com/charles-m-knox/hugo-minimalist-theme).
+- [Hugo minimalist theme](https://github.com/charles-m-knox/hugo-minimalist-theme) - A Hugo theme for my personal music project that supports dark/light mode and works with browsers without JavaScript. [Source code here](https://github.com/charles-m-knox/hugo-minimalist-theme).
 - *more coming soon*
 
 ### Browser web extensions
